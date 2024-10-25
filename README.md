@@ -18,37 +18,33 @@
   <a href="https://github.com/kvcops/KV-Nexus/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/kvcops/KV-Nexus?style=for-the-badge&color=c9cbff&label=Contributors&logo=github" alt="GitHub Contributors"/>
     </a>
+    </div>
       <div>
         <br>
         <br>
-    ## ⭐️ Show Your Support!
+   
+## 🎉 Accepted for GirlScript Summer of Code 2024 and Hacktoberfest 2024
 
-Before you get started, please:
-
- 1.**Star this repository** by clicking the "Star" button at the top right corner.<br>
- 2.**Follow** the GitHub profile of the project owner.<a href="https://github.com/kvcops"> @kvcops </a> <br>
-
-By doing this, you support the project and help grow our community!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="80%">
 </div>
 
----
-
-## 🎉 Accepted for GirlScript Summer of Code 2024
+<br>
 
   ![image](https://github.com/user-attachments/assets/5263dc32-ce09-4835-b964-7f996e970eb5)
 
 Congratulations! NV-Nexus has been selected for participation in GirlScript Summer of Code 2024. We're excited to have you on board to contribute and learn together!
 
-This repository serves as a platform for newcomers and seasoned developers alike to enhance their knowledge and skills by working on small to large web projects. Whether you're diving into web development for the first time or looking to expand your portfolio, KV-Nexus offers a supportive community and a variety of opportunities to grow.
+
 
 ## 🚀 How to Get Started?
 
 Getting started with GGSOC EXT 2024 is easy! Follow these steps to jump right in:
 
-1. **Explore Project Ideas**: Browse through the existing project ideas or propose your own by opening an issue. We welcome a diverse range of project proposals and aim to match contributors with projects that align with their interests and skill levels.
-2. **Join the Community**: Connect with fellow contributors and mentors in our community channels. Whether you have questions, need guidance, or want to share your progress, our community is here to support you every step of the way.
-3. **Choose Your Project**: Once you've identified a project that interests you, let us know! We'll assign you the issue and provide any additional resources or information you may need to get started.
-4. **Start Contributing**: Dive into the project, work on your assigned tasks, and collaborate with your peers. Don't hesitate to ask for help or feedback along the way—we're all here to learn and grow together.
+ 1.**Explore Project Ideas**<br>
+ 2.**Join the Community**<br>
+ 3.**Choose Your Project**<br>
+ 4.**Start Contributing**<br>
 
 ## 🛠 Installation and Usage
 To set up the project locally, follow these steps:
@@ -80,15 +76,9 @@ npm run dev
 Once both the frontend and backend are set up, the project will be accessible on the defined local port.
 
 
-## 🛠 How to Contribute?
 
-Contributing to GGSOC'2024 EXT is a rewarding experience that allows you to sharpen your skills, gain practical experience, and make meaningful contributions to real-world projects. Here's how you can get involved:
 
-- **Coding**: Contribute code to existing projects or propose new projects to work on. Whether you're a frontend developer, backend developer, or full-stack developer, there's a place for you to contribute your expertise.
-- **Documentation**: Improve project documentation, write tutorials, or create developer guides to help others understand and contribute to the project more effectively.
-- **Testing**: Help ensure the quality and reliability of our projects by testing new features, identifying bugs, and providing feedback on improvements.
-- **Design**: If you have a knack for design, contribute your skills to create user-friendly interfaces, design project logos, or enhance the overall visual appeal of our projects.
-
+  
 ## 🔄 Submitting a Pull Request
 
 To submit your contributions, follow these steps:
